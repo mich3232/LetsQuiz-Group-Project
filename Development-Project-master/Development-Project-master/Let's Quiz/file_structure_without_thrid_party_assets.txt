@@ -1,0 +1,16 @@
+Assets/
+	|-- Art/
+		|-- Audio
+		|-- Sprite
+	|-- Editor
+	|-- Font
+	|-- Prefabs
+	|-- Scenes
+	|-- Scripts/
+		|-- Controller
+		|-- Data
+		|-- Helper
+		|-- Integration
+		|-- Object
+		|-- Player
+	|-- StreamingAssets

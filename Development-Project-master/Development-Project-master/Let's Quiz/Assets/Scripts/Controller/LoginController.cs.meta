@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 3ca55436678aefd4fa0cd6594c3f2c71
+timeCreated: 1523332085
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - entryPanel: {instanceID: 0}
+  - existingUserPanel: {instanceID: 0}
+  - newUserPanel: {instanceID: 0}
+  - skipButton: {instanceID: 0}
+  - buttonPanel: {instanceID: 0}
+  - googleButton: {instanceID: 0}
+  - facebookButton: {instanceID: 0}
+  - existingUsernameInput: {instanceID: 0}
+  - existingPasswordInput: {instanceID: 0}
+  - loginButton: {instanceID: 0}
+  - newUsernameInput: {instanceID: 0}
+  - newEmailInput: {instanceID: 0}
+  - newPasswordInput: {instanceID: 0}
+  - confirmPasswordInput: {instanceID: 0}
+  - registerUserButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+Assets/
+	|-- _Game/
+		|-- Art/
+			|-- Audio
+			|-- Sprite
+		|-- Editor
+		|-- Font
+		|-- Prefabs
+		|-- Scenes
+		|-- Scripts/
+			|-- Controller
+			|-- Data
+			|-- Helper
+			|-- Integration
+			|-- Object
+			|-- Player
+		|-- StreamingAssets
+	|-- third-party asset folder/
+		|-- Contents
+	|-- third-party asset folder/
+		|-- Contents
